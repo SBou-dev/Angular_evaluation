@@ -9,18 +9,18 @@
       "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
       "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
-      "score": 0
+      "score": 5
     },
     {
       "id": 2,
-      "title": "The Cotton Club",
-      "year": "1984",
-      "runtime": "127",
-      "director": "Francis Ford Coppola",
-      "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
-      "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg",
-      "score": 0
+      "title": "Valkyrie",
+      "year": "2008",
+      "runtime": "121",
+      "director": "Bryan Singer",
+      "actors": "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson",
+      "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg",
+      "score": 4
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
       "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg",
-      "score": 0
+      "score": -4
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "actors": "Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil",
       "plot": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg",
-      "score": 0
+      "score": 8
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "actors": "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson",
       "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
       "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg",
-      "score": 0
+      "score": -1
     },
     {
       "id": 6,
@@ -97,7 +97,7 @@
       "actors": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",
       "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
       "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
-      "score": 0
+      "score": -1
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "actors": "Ian McKellen, Bimbo Hart, Alastair MacIntosh, David Kelly",
       "plot": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg",
-      "score": 0
+      "score": 1
     },
     {
       "id": 11,

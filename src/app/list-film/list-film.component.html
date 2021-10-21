@@ -1,0 +1,5 @@
+<h1 class="my-3">{{ movieTitle }}</h1>
+
+<ul>
+  <app-item-list [films]="films" (editScoreEvent)="editScoreFilm($event)"></app-item-list>
+</ul>

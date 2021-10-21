@@ -1,0 +1,38 @@
+<li *ngFor=" let film of films">
+  <div class="card border-warning mb-3" style="max-width: auto; font-weight: bold;">
+    <div class="card-header" style="display: flex; justify-content: space-between; align-items: center;">
+      <div>
+        {{ film.title }} - {{ film.year }}
+      </div>
+      <div class="d-flex" style="text-align: center;">
+
+        <button type="button" class="btn btn-warning" data-toggle="tooltip" data-placement="bottom"
+          title="Voter -1" (click)="reduceScore(film)">-1</button>
+        <p class="px-3">score<br>{{ film.score }}</p>
+        <button type="button" class="btn btn-warning border" data-toggle="tooltip" data-placement="bottom"
+          title="Voter +1" (click)="addScore(film)">+1</button>
+      </div>
+
+    </div>
+    <div class="card-body text-secondary d-md-flex">
+      <img class="card-img-left img-fluid mr-3" src="{{ film.posterUrl }}" alt="Affiche du film - {{ film.title }}">
+
+      <div>
+        <h5 class="card-title">{{ film.title }}</h5>
+        <p class="card-text">{{ film.year }}</p>
+        <p class="card-text">{{ film.plot }}</p>
+      </div>
+
+    </div>
+  </div>
+</li>
+
+<style>
+  li {
+    list-style: none;
+  }
+  img {
+    height: 300px;
+  }
+
+</style>
